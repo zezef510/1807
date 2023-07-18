@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DemoWebStudents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/M3/Router" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/M3/Router1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Node-M3-Router" vcs="Git" />
+  </component>
+</project>
